@@ -1,11 +1,11 @@
-<h1 align="center">Thais Santos</h1>
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=fff033&text=Thais%20Santos&fontColor=00000&section=header&reversal=true)
 <h3 align="center">Focused on optimizing processes and extracting insights through data.</h3>
 
 ---
 
 ## About
 
-I'm transitioning from a background in marketing and business intelligence to data science. I focus on delivering practical solutions using clean code, thoughtful analysis, and visual clarity. My main interests include predictive modeling, process automation, and data visualization.
+From a background in marketing and business intelligence to data science. I focus on delivering practical solutions using clean code, thoughtful analysis, and visual clarity. My main interests include predictive modeling, process automation, and data visualization.
 
 ---
 
